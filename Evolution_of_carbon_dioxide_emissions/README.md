@@ -1,7 +1,7 @@
 # Evolution of carbon dioxide emissions 
 ### click here to see the full report - [notebook](https://github.com/obrunet/Evolution_of_carbon_dioxide_emissions/blob/master/Emissions.ipynb) - [pdf](https://github.com/obrunet/Evolution_of_carbon_dioxide_emissions/blob/master/Evolution%20of%20carbon%20dioxide%20emissions.pdf)
 
-![text](https://github.com/obrunet/Evolution_of_carbon_dioxide_emissions/blob/master/input/map.png)
+![text](https://github.com/obrunet/Few_Data_Analysis/edit/master/Evolution_of_carbon_dioxide_emissions/blob/master/input/map.png)
 
 ## Forewords
 
@@ -13,7 +13,7 @@
   * in which countries do people produce individually more CO2 ?
   * which countires are the most important emitters ?
   
-  ![text](https://github.com/obrunet/Evolution_of_carbon_dioxide_emissions/blob/master/input/emissions_per_capita.png)
+  ![text](https://github.com/obrunet/Few_Data_Analysis/edit/master/Evolution_of_carbon_dioxide_emissions//blob/master/input/emissions_per_capita.png)
   
 ## TOC
 - Evolution of the carbon dioxide emissions over years
@@ -39,7 +39,7 @@
 
 ## Few visualizations
 
-  ![text](https://github.com/obrunet/Evolution_of_carbon_dioxide_emissions/blob/master/input/countries_highest_emitters.png)
+  ![text](https://github.com/obrunet/Few_Data_Analysis/edit/master/Evolution_of_carbon_dioxide_emissions//blob/master/input/countries_highest_emitters.png)
   
   
-  ![text](https://github.com/obrunet/Evolution_of_carbon_dioxide_emissions/blob/master/input/share.png)
+  ![text](https://github.com/obrunet/Few_Data_Analysis/edit/master/Evolution_of_carbon_dioxide_emissions//blob/master/input/share.png)
