@@ -1,5 +1,5 @@
 # Evolution of carbon dioxide emissions 
-### click here to see the full report - [notebook](https://github.com/obrunet/Evolution_of_carbon_dioxide_emissions/blob/master/Emissions.ipynb) - [pdf](https://github.com/obrunet/Evolution_of_carbon_dioxide_emissions/blob/master/Evolution%20of%20carbon%20dioxide%20emissions.pdf)
+### click here to see the full report - [notebook](https://github.com/obrunet/Few_Data_Analysis/blob/master/Evolution_of_carbon_dioxide_emissions/Emissions.ipynb) - [pdf](https://github.com/obrunet/Few_Data_Analysis/blob/master/Evolution_of_carbon_dioxide_emissions//Evolution%20of%20carbon%20dioxide%20emissions.pdf)
 
 ![text](https://github.com/obrunet/Few_Data_Analysis/blob/master/Evolution_of_carbon_dioxide_emissions/input/map.png)
 
